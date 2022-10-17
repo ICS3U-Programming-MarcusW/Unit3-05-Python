@@ -14,6 +14,8 @@ def main():
     print("")
 
     # process & output
+    # process - assign each integer to a month
+    # output the integer they inputted along with its corresponding month
     match user_month:
         case "1":
             print("1 is January!")
